@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/React-18.x-blue?logo=react" />
   <img src="https://img.shields.io/badge/Vite-5.x-purple?logo=vite" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/CSS-Modern-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css" />
 </p>
 
 Aplicación de calculadora moderna construida con React que permite realizar operaciones matemáticas básicas con una interfaz limpia, historial de operaciones y experiencia de usuario fluida.
