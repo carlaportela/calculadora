@@ -27,17 +27,13 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Calculadora</h1>
-
+      <History history={history} />
       <Display value={input} />
-
       <div className="buttons">
         {["7","8","9","/","4","5","6","*","1","2","3","-","0",".","=","+","C"].map((btn) => (
           <Button key={btn} value={btn} onClick={handleClick} />
         ))}
       </div>
-
-      <History history={history} />
     </div>
   );
 }
